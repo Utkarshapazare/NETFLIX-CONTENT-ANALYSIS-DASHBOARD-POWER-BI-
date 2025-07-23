@@ -60,3 +60,19 @@ To make the dashboard interactive and user-friendly, the following slicers were 
 ## Conclusion
 
 This project presents a visual summary of Netflix content trends using Power BI. It helps understand what kind of content is available, when it's released, how it's categorized, and who’s behind it. Ideal for showcasing data storytelling and dashboarding skills.
+
+👩‍💻 About Me
+Utkarsha Pazare
+🎓 MCA Student | 📊 Certified Data Analyst | 💼 Data Analytics Intern
+
+🔧 Skills: Power BI, Excel, SQL, Python, Tableau
+🔗 LinkedIn: [https://www.linkedin.com/in/utkarsha-pazare/]
+
+⭐ Show Your Support
+If you found this project helpful:
+
+⭐ Star the repo
+
+💬 Share your feedback
+
+🔗 Connect with me on LinkedIn!
